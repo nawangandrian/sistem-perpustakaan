@@ -76,5 +76,5 @@ Aplikasi ini dikembangkan untuk mendukung proses administrasi perpustakaan secar
 ### Clone Repository
 
 ```bash
-git clone https://github.com/nawangandrian/perpustakaan-ci4.git
+git clone https://github.com/nawangandrian/sistem-perpustakaan.git
 ```
